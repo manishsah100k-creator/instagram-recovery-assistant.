@@ -1,1 +1,1 @@
-# instagram-recovery-assistant.
+# instagram-recovery-assistant
